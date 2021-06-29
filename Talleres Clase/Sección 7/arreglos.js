@@ -64,15 +64,6 @@ for(let i = 0; i < elementos; i++){
 console.log(arrayNew);
 
 
-
-
-
-
-
-
-
-
-
 //----------------------------------[ Ejercicio 3 ]----------------------------------------
 /*Dado el arreglo [1,2,3,4,5,6]
 ● Iterar por todos los elementos dentro del arreglo utilizando while y mostrarlos en pantalla.

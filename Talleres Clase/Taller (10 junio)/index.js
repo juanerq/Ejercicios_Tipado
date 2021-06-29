@@ -1,8 +1,6 @@
 /*
 1. Cree un programa que implemente una función que reciba como argumento un arreglo y retorne la suma de los cuadrados de sus elementos, luego, imprima el resultado.
 
-2. Cree una función que tenga por parámetro un arreglo de números y muestre el mayor y el menor de ello*/
-
 //.length = para saber la cantidad de lementos
 // i = indice/index
 // los arrays empiezan contando desde 0 (indice)
